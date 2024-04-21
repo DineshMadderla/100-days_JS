@@ -1,4 +1,4 @@
-
+// first day of JS 
 
 const findlongestWord = (string) => {
   if (string.trim().length === 0) {
