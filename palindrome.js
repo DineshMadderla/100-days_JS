@@ -1,4 +1,4 @@
-// Write a function wether the given string is a Palindrome or not
+// Write a function wether the given string is a Palindrome or not//
 
 const isPalindrome = (str) => {
   str = str.toLowerCase().replace(/\W/g,'');
