@@ -5,7 +5,7 @@
 //todo The function should adhere to the following rules:
 //? If all three sides are of equal length, return "equilateral".
 //? If only two sides are of equal length, return "isosceles".
-//? If all three sides have different lengths, return "scalene".
+//? If all three sides have different lengths, return "scalene"..
 
 const checkTriangleType = (value1, value2, value3) => {
   if (value1 === value2 && value1 === value3) {
